@@ -1,0 +1,25 @@
+#info {
+  height: 25em;
+  width: 100%;
+  background-color: #b60000;
+  position: fixed;
+  top: 10em;
+  padding: 6% 0;
+}
+
+
+div.Banner_Inicial{
+	background-color: red;
+	text-align: center;
+	padding: 10em 0;
+	color: white;
+}
+
+div.Banner_Inicial h2{
+	font-size: 5em;
+	font-weight: bold
+}
+
+div.Banner_Inicial h3{
+	font-size: 2em;
+}
